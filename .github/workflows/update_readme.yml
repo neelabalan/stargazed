@@ -21,7 +21,7 @@ jobs:
         run: |
           python pystargazed/pystargazed.py ${{ secrets.USERNAME }}
       - name: delete the repo
-        run: rm -rf pystrgazed/
+        run: rm -rf pystargazed/
       - name: setup git config
         run: |
           git config user.name ${{ secrets.USERNAME }}
