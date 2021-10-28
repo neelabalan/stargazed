@@ -153,7 +153,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[hgrep](https://github.com/rhysd/hgrep)|Grep with human-friendly search output|rhysd|
+|[hgrep](https://github.com/rhysd/hgrep)|Grep with human-friendly search results|rhysd|
 |[hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests.|Orange-OpenSource|
 |[skim](https://github.com/lotabout/skim)|Fuzzy Finder in rust!|lotabout|
 |[skedge](https://github.com/deciduously/skedge)|Single-process scheduling: every(10).minutes()?.at(":17")?.run(...|deciduously|
