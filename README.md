@@ -202,7 +202,7 @@ Contents
 |[block-ciphers](https://github.com/RustCrypto/block-ciphers)|Collection of block cipher algorithms written in pure Rust|RustCrypto|
 |[stdx](https://github.com/brson/stdx)|The missing batteries of Rust|brson|
 |[rustymind](https://github.com/junjunjd/rustymind)|A driver, parser and real time plotter for NeuroSky MindWave EEG headset|junjunjd|
-|[quickwit](https://github.com/quickwit-inc/quickwit)|Quickwit is a fast and cost-efficient distributed search engine for immutable data.|quickwit-inc|
+|[quickwit](https://github.com/quickwit-inc/quickwit)|Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.|quickwit-inc|
 |[aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)|AWS SDK for the Rust Programming Language|awslabs|
 |[appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|AppFlowy-IO|
 |[lychee](https://github.com/lycheeverse/lychee)|⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!|lycheeverse|
