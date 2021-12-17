@@ -67,6 +67,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
+|[lychee](https://github.com/lycheeverse/lychee)|⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!|lycheeverse|
 |[datasets](https://github.com/plotly/datasets)|Datasets used in Plotly examples and documentation|plotly|
 |[free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|ripienaar|
 |[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)|The minimal amount of CSS to replicate the GitHub Markdown style|sindresorhus|
@@ -205,7 +206,6 @@ Contents
 |[quickwit](https://github.com/quickwit-inc/quickwit)|Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.|quickwit-inc|
 |[aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)|AWS SDK for the Rust Programming Language|awslabs|
 |[appflowy](https://github.com/AppFlowy-IO/appflowy)|AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.|AppFlowy-IO|
-|[lychee](https://github.com/lycheeverse/lychee)|⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!|lycheeverse|
 |[tlborm](https://github.com/DanielKeep/tlborm)|The Little Book of Rust Macros|DanielKeep|
 |[termimad](https://github.com/Canop/termimad)|A library to display rich (Markdown) snippets and texts in a rust terminal application|Canop|
 |[gitui](https://github.com/extrawurst/gitui)|Blazing 💥 fast terminal-ui for git written in rust 🦀|extrawurst|
