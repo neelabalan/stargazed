@@ -28,7 +28,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[cosmos](https://github.com/OpenGenus/cosmos)|Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter ||OpenGenus|
-|[gerbera](https://github.com/gerbera/gerbera)|UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺|gerbera|
+|[gerbera](https://github.com/gerbera/gerbera)|UPnP Media Server for 2022: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺|gerbera|
 |[flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|flameshot-org|
 
 # Emacs Lisp
@@ -98,7 +98,7 @@ Contents
 |[awesome-math](https://github.com/rossant/awesome-math)|A curated list of awesome mathematics resources|rossant|
 |[autorandr](https://github.com/phillipberndt/autorandr)|Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr|phillipberndt|
 |[pythonConcurrencyFromTheGroundUp](https://github.com/morenoh149/pythonConcurrencyFromTheGroundUp)||morenoh149|
-|[edgedb](https://github.com/edgedb/edgedb)|The next generation relational database.|edgedb|
+|[edgedb](https://github.com/edgedb/edgedb)|A next-generation graph-relational database.|edgedb|
 |[pdd](https://github.com/jarun/pdd)|:date: Tiny date, time diff calculator with piggybacked timers|jarun|
 |[dte](https://github.com/mvrozanti/dte)|🕟 date and time processing language|mvrozanti|
 |[livecodingmusic](https://github.com/schollz/livecodingmusic)|live coding in python + supercollider|schollz|
