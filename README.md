@@ -123,7 +123,7 @@ Contents
 |[pydoro](https://github.com/JaDogg/pydoro)|🍅 pydoro - Terminal Pomodoro Timer|JaDogg|
 |[cumodoro](https://github.com/gisodal/cumodoro)|Curses interface to pomodoro timer|gisodal|
 |[flask-starter](https://github.com/ksh7/flask-starter)|Flask-Starter is a boilerplate starter template designed to help you quickstart your Flask web application development.|ksh7|
-|[textual](https://github.com/willmcgugan/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|willmcgugan|
+|[textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|Textualize|
 |[clikan](https://github.com/kitplummer/clikan)|clikan is a super simple personal kanban board that runs in a CLI|kitplummer|
 |[Pinion](https://github.com/yaqwsx/Pinion)|Generate interactive and nice-looking diagrams for your PCBs!|yaqwsx|
 |[playsound](https://github.com/TaylorSMarks/playsound)|Pure Python, cross platform, single function module with no dependencies for playing sounds.|TaylorSMarks|
@@ -134,7 +134,7 @@ Contents
 |[flask-sock](https://github.com/miguelgrinberg/flask-sock)|WebSocket support without gevent for Flask and other WSGI frameworks.|miguelgrinberg|
 |[tartiflette](https://github.com/tartiflette/tartiflette)|GraphQL Engine built with Python 3.6+ / asyncio|tartiflette|
 |[flask-api-starter-kit](https://github.com/antkahn/flask-api-starter-kit)|Start a Flask API in less than 5 minutes|antkahn|
-|[rich](https://github.com/willmcgugan/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|willmcgugan|
+|[rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|Textualize|
 |[docker-flask-mongodb-example](https://github.com/danionescu0/docker-flask-mongodb-example)|Uses docker compose with a python flask microservice and MongoDB instance to make a sample application|danionescu0|
 |[telegram-upload](https://github.com/Nekmo/telegram-upload)|Upload and download files from Telegram up to 2GiB using your account|Nekmo|
 |[RSS-to-Telegram-Bot](https://github.com/BoKKeR/RSS-to-Telegram-Bot)|RSS to Telegram python script|BoKKeR|
