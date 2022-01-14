@@ -161,7 +161,7 @@ Contents
 |[gitui](https://github.com/extrawurst/gitui)|Blazing 💥 fast terminal-ui for git written in rust 🦀|extrawurst|
 |[vaultwarden](https://github.com/dani-garcia/vaultwarden)|Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs|dani-garcia|
 |[hgrep](https://github.com/rhysd/hgrep)|Grep with human-friendly search results|rhysd|
-|[hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests.|Orange-OpenSource|
+|[hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests with plain text and curl.|Orange-OpenSource|
 |[skim](https://github.com/lotabout/skim)|Fuzzy Finder in rust!|lotabout|
 |[skedge](https://github.com/deciduously/skedge)|Single-process scheduling: every(10).minutes()?.at(":17")?.run(...|deciduously|
 |[polaris](https://github.com/agersant/polaris)|Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.|agersant|
