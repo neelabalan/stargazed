@@ -89,7 +89,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[rust-by-practice](https://github.com/sunface/rust-by-practice)| Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.|sunface|
+|[rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|sunface|
 |[rnote](https://github.com/flxzt/rnote)|A simple drawing application to create handwritten notes.|flxzt|
 |[audioserve](https://github.com/izderadicka/audioserve)|Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.|izderadicka|
 |[awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|rust-unofficial|
