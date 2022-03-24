@@ -9,6 +9,7 @@ Stargazed
 Contents
 ========
 
+* [C](#c)
 * [C++](#c)
 * [Emacs Lisp](#emacs-lisp)
 * [HTML](#html)
@@ -19,6 +20,12 @@ Contents
 * [Shell](#shell)
 * [TypeScript](#typescript)
 * [Vim script](#vim-script)
+
+# C
+
+|Repository|Description|Author|
+| :--- | :--- | :--- |
+|[halmak](https://github.com/MadRabbit/halmak)|The final version of the AI designed keyboard layout|MadRabbit|
 
 # C++
 
@@ -49,7 +56,6 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[halmak](https://github.com/MadRabbit/halmak)|The final version of the AI designed keyboard layout|MadRabbit|
 |[awesome-bits](https://github.com/keon/awesome-bits)|:computer: A curated list of awesome bitwise operations and tricks|keon|
 |[edition-guide](https://github.com/rust-lang/edition-guide)|A guide to changes between various editions of Rust|rust-lang|
 |[awesome-bigdata](https://github.com/0xnr/awesome-bigdata)|A curated list of awesome big data frameworks, ressources and other awesomeness.|0xnr|
