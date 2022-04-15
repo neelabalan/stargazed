@@ -64,7 +64,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[fastero](https://github.com/wasi-master/fastero)|Python timeit CLI for the 21st century!|wasi-master|
+|[fastero](https://github.com/wasi-master/fastero)|Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!|wasi-master|
 |[PathPicker](https://github.com/facebook/PathPicker)|PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.|facebook|
 |[spock](https://github.com/fidelity/spock)|spock is a framework that helps manage complex parameter configurations during research and development of Python applications|fidelity|
 |[gluon-ts](https://github.com/awslabs/gluon-ts)|Probabilistic time series modeling in Python|awslabs|
