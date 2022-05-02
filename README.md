@@ -18,7 +18,6 @@ Contents
 * [Other](#other)
 * [Python](#python)
 * [Rust](#rust)
-* [SCSS](#scss)
 * [Shell](#shell)
 * [TypeScript](#typescript)
 * [Vim script](#vim-script)
@@ -113,6 +112,7 @@ Contents
 | :--- | :--- | :--- |
 |[thokr](https://github.com/coloradocolby/thokr)|a sleek typing tui written in rust|coloradocolby|
 |[mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)|A preprocessor for mdbook to add mermaid support|badboy|
+|[mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)|A preprocessor for mdbook to add Material Design admonishments.|tommilligan|
 |[rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|sunface|
 |[rnote](https://github.com/flxzt/rnote)|A simple drawing application to create handwritten notes.|flxzt|
 |[audioserve](https://github.com/izderadicka/audioserve)|Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.|izderadicka|
@@ -131,12 +131,6 @@ Contents
 |[zola](https://github.com/getzola/zola)|A fast static site generator in a single binary with everything built-in. https://www.getzola.org|getzola|
 |[websocat](https://github.com/vi/websocat)|Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions|vi|
 |[bunt](https://github.com/LukasKalbertodt/bunt)|Simple macros to write colored and formatted text to a terminal. Based on `termcolor`, thus also cross-platform.|LukasKalbertodt|
-
-# SCSS
-
-|Repository|Description|Author|
-| :--- | :--- | :--- |
-|[mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)|A preprocessor for mdbook to add Material Design admonishments.|tommilligan|
 
 # Shell
 
