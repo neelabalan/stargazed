@@ -70,7 +70,7 @@ Contents
 |[awesome-python-modules-as-script](https://github.com/cassiobotaro/awesome-python-modules-as-script)|:neckbeard: Catalogue of useful python modules that run as script.|cassiobotaro|
 |[awesome-bits](https://github.com/keon/awesome-bits)|:computer: A curated list of awesome bitwise operations and tricks|keon|
 |[edition-guide](https://github.com/rust-lang/edition-guide)|A guide to changes between various editions of Rust|rust-lang|
-|[awesome-bigdata](https://github.com/0xnr/awesome-bigdata)|A curated list of awesome big data frameworks, ressources and other awesomeness.|0xnr|
+|[awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)|A curated list of awesome big data frameworks, ressources and other awesomeness.|newTendermint|
 
 # Python
 
