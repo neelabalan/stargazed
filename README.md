@@ -134,7 +134,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[zoxide](https://github.com/ajeetdsouza/zoxide)|A smarter cd command. Supports all major shells.|ajeetdsouza|
-|[thokr](https://github.com/coloradocolby/thokr)|✨ sleek typing tui written in rust|coloradocolby|
+|[thokr](https://github.com/coloradocolby/thokr)|✨ sleek typing tui with visualized results and historical logging|coloradocolby|
 |[mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)|A preprocessor for mdbook to add mermaid support|badboy|
 |[mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)|A preprocessor for mdbook to add Material Design admonishments.|tommilligan|
 |[rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|sunface|
