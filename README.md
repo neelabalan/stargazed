@@ -138,7 +138,7 @@ Contents
 |[rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder)|derive builder implementation for rust structs|colin-kiegel|
 |[python2rust](https://github.com/bedroombuilds/python2rust)|Code for Youtube series introducing Rust to Python programmers|bedroombuilds|
 |[zoxide](https://github.com/ajeetdsouza/zoxide)|A smarter cd command. Supports all major shells.|ajeetdsouza|
-|[thokr](https://github.com/coloradocolby/thokr)|✨ sleek typing tui with visualized results and historical logging|coloradocolby|
+|[thokr](https://github.com/thatvegandev/thokr)|✨ sleek typing tui with visualized results and historical logging|thatvegandev|
 |[mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)|A preprocessor for mdbook to add mermaid support|badboy|
 |[mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)|A preprocessor for mdbook to add Material Design admonishments.|tommilligan|
 |[rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|sunface|
