@@ -109,7 +109,7 @@ Contents
 |[PathPicker](https://github.com/facebook/PathPicker)|PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.|facebook|
 |[spock](https://github.com/fidelity/spock)|spock is a framework that helps manage complex parameter configurations during research and development of Python applications|fidelity|
 |[gluon-ts](https://github.com/awslabs/gluon-ts)|Probabilistic time series modeling in Python|awslabs|
-|[termtyper](https://github.com/kraanzu/termtyper)|Typing in terminal is fun !|kraanzu|
+|[termtyper](https://github.com/kraanzu/termtyper)|A typing application to level up your fingers!|kraanzu|
 |[flask-restx-boilerplate](https://github.com/X1Zeth2X/flask-restx-boilerplate)|🔥 REST API written in Flask micro web framework with the Flask-RESTX framework.|X1Zeth2X|
 |[traits](https://github.com/enthought/traits)|Observable typed attributes for Python classes|enthought|
 |[gitdir](https://github.com/sdushantha/gitdir)|Download a single directory/folder from a GitHub repo|sdushantha|
