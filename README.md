@@ -177,7 +177,7 @@ Contents
 |[vscodium](https://github.com/VSCodium/vscodium)|binary releases of VS Code without MS branding/telemetry/licensing|VSCodium|
 |[forgit](https://github.com/wfxr/forgit)|:zzz: A utility tool powered by fzf for using git interactively.|wfxr|
 |[scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all)|Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.|github|
-|[drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of diagrams.net|jgraph|
+|[drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|jgraph|
 |[tdrop](https://github.com/noctuid/tdrop)|A Glorified WM-Independent Dropdown Creator|noctuid|
 
 # TypeScript
