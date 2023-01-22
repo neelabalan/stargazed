@@ -33,6 +33,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
+|[lnav](https://github.com/tstack/lnav)|Log file navigator|tstack|
 |[fastnumbers](https://github.com/SethMMorton/fastnumbers)|Super-fast and clean conversions to numbers.|SethMMorton|
 |[flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|flameshot-org|
 
@@ -83,7 +84,6 @@ Contents
 |[starlette-prometheus](https://github.com/perdy/starlette-prometheus)|Prometheus integration for Starlette.|perdy|
 |[python-o365](https://github.com/O365/python-o365)|A simple python library to interact with Microsoft Graph and Office 365 API|O365|
 |[detect-secrets](https://github.com/Yelp/detect-secrets)|An enterprise friendly way of detecting and preventing secrets in code.|Yelp|
-|[rocketry](https://github.com/Miksus/rocketry)|Modern scheduling library for Python|Miksus|
 |[chuy](https://github.com/UltiRequiem/chuy)|🐻 Set alias to long commands and speed up your workflow! Support for JSON , TOML and INI  configs file format and integrates with Poetry.|UltiRequiem|
 |[starlette_exporter](https://github.com/stephenhillier/starlette_exporter)|Prometheus exporter for Starlette and FastAPI|stephenhillier|
 |[prometheus-async](https://github.com/hynek/prometheus-async)|Async helpers for prometheus_client.|hynek|
