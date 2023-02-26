@@ -34,6 +34,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[lnav](https://github.com/tstack/lnav)|Log file navigator|tstack|
+|[fastnumbers](https://github.com/SethMMorton/fastnumbers)|Super-fast and clean conversions to numbers.|SethMMorton|
 |[flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|flameshot-org|
 
 # CSS
@@ -87,7 +88,6 @@ Contents
 |[chuy](https://github.com/UltiRequiem/chuy)|🐻 Set alias to long commands and speed up your workflow! Support for JSON , TOML and INI  configs file format and integrates with Poetry.|UltiRequiem|
 |[starlette_exporter](https://github.com/stephenhillier/starlette_exporter)|Prometheus exporter for Starlette and FastAPI|stephenhillier|
 |[prometheus-async](https://github.com/hynek/prometheus-async)|Async helpers for prometheus_client.|hynek|
-|[fastnumbers](https://github.com/SethMMorton/fastnumbers)|Super-fast and clean conversions to numbers.|SethMMorton|
 |[clustergit](https://github.com/mnagel/clustergit)|run git commands on multiple git clones|mnagel|
 |[blue](https://github.com/grantjenks/blue)|The slightly less uncompromising Python code formatter.|grantjenks|
 |[spock](https://github.com/fidelity/spock)|spock is a framework that helps manage complex parameter configurations during research and development of Python applications|fidelity|
