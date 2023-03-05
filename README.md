@@ -34,7 +34,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[lnav](https://github.com/tstack/lnav)|Log file navigator|tstack|
-|[fastnumbers](https://github.com/SethMMorton/fastnumbers)|Super-fast and clean conversions to numbers.|SethMMorton|
+|[fastnumbers](https://github.com/SethMMorton/fastnumbers)|Super-fast and clean conversions to numbers for Python.|SethMMorton|
 |[flameshot](https://github.com/flameshot-org/flameshot)|Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:|flameshot-org|
 
 # CSS
