@@ -97,7 +97,7 @@ Contents
 |[mitmproxy](https://github.com/mitmproxy/mitmproxy)|An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.|mitmproxy|
 |[kitty](https://github.com/kovidgoyal/kitty)|Cross-platform, fast, feature-rich, GPU based terminal|kovidgoyal|
 |[cumodoro](https://github.com/gisodal/cumodoro)|Curses interface to pomodoro timer|gisodal|
-|[textual](https://github.com/Textualize/textual)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|Textualize|
+|[textual](https://github.com/Textualize/textual)|Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!|Textualize|
 |[rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|Textualize|
 
 # Rust
