@@ -61,6 +61,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
+|[bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|suno-ai|
 |[cufflinks](https://github.com/santosjorge/cufflinks)|Productivity Tools for Plotly + Pandas|santosjorge|
 |[core-to-core-latency](https://github.com/nviennot/core-to-core-latency)|Measures the latency between CPU cores|nviennot|
 
@@ -78,7 +79,6 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|suno-ai|
 |[beetrace](https://github.com/furkanonder/beetrace)|Trace your python process line by line with low overhead!|furkanonder|
 |[latexify_py](https://github.com/google/latexify_py)|A library to generate LaTeX expression from Python code.|google|
 |[yfinance](https://github.com/ranaroussi/yfinance)|Download market data from Yahoo! Finance's API|ranaroussi|
