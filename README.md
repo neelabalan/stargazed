@@ -85,7 +85,7 @@ Contents
 |[latexify_py](https://github.com/google/latexify_py)|A library to generate LaTeX expression from Python code.|google|
 |[yfinance](https://github.com/ranaroussi/yfinance)|Download market data from Yahoo! Finance's API|ranaroussi|
 |[vidcutter](https://github.com/ozmartian/vidcutter)|A modern yet simple multi-platform video cutter and joiner.|ozmartian|
-|[linkding](https://github.com/sissbruecker/linkding)|Self-hosted bookmark service|sissbruecker|
+|[linkding](https://github.com/sissbruecker/linkding)|Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.|sissbruecker|
 |[starlette-prometheus](https://github.com/perdy/starlette-prometheus)|Prometheus integration for Starlette.|perdy|
 |[python-o365](https://github.com/O365/python-o365)|A simple python library to interact with Microsoft Graph and Office 365 API|O365|
 |[detect-secrets](https://github.com/Yelp/detect-secrets)|An enterprise friendly way of detecting and preventing secrets in code.|Yelp|
