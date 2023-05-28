@@ -109,7 +109,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[vime](https://github.com/algon-320/vime)|Using Vim as an input method for X11 apps|algon-320|
-|[sniffnet](https://github.com/GyulyVGC/sniffnet)|Application to comfortably monitor your network traffic|GyulyVGC|
+|[sniffnet](https://github.com/GyulyVGC/sniffnet)|Application to comfortably monitor your Internet traffic 🕵️‍♂️|GyulyVGC|
 |[atuin](https://github.com/ellie/atuin)|🐢 Magical shell history|ellie|
 |[confy](https://github.com/rust-cli/confy)|🛋 Zero-boilerplate configuration management in Rust |rust-cli|
 |[tempfile](https://github.com/Stebalien/tempfile)|Temporary file library for rust|Stebalien|
