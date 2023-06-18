@@ -56,6 +56,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)|markdown preview plugin for (neo)vim|iamcco|
+|[drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|jgraph|
 
 # Jupyter Notebook
 
@@ -69,7 +70,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)|🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022|Lissy93|
+|[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)|🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023|Lissy93|
 |[dashboard](https://github.com/dtolnay/dashboard)||dtolnay|
 |[Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)|A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.|onceupon|
 |[awesome-bits](https://github.com/keon/awesome-bits)|:computer: A curated list of awesome bitwise operations and tricks|keon|
@@ -131,7 +132,6 @@ Contents
 | :--- | :--- | :--- |
 |[vscodium](https://github.com/VSCodium/vscodium)|binary releases of VS Code without MS branding/telemetry/licensing|VSCodium|
 |[scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all)|Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.|github|
-|[drawio-desktop](https://github.com/jgraph/drawio-desktop)|Official electron build of draw.io|jgraph|
 
 # TypeScript
 
