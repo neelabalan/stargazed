@@ -160,7 +160,7 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[fern](https://github.com/fern-api/fern)|SDKs and Documentation for your API|fern-api|
+|[fern](https://github.com/fern-api/fern)|SDKs and Docs for your API|fern-api|
 |[stepci](https://github.com/stepci/stepci)|Automated API Testing and Quality Assurance|stepci|
 
 # Vim Script
