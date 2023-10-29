@@ -139,7 +139,7 @@ Contents
 |[atuin](https://github.com/atuinsh/atuin)|✨ Magical shell history|atuinsh|
 |[confy](https://github.com/rust-cli/confy)|🛋 Zero-boilerplate configuration management in Rust |rust-cli|
 |[tempfile](https://github.com/Stebalien/tempfile)|Temporary file library for rust|Stebalien|
-|[ruff](https://github.com/astral-sh/ruff)|An extremely fast Python linter, written in Rust.|astral-sh|
+|[ruff](https://github.com/astral-sh/ruff)|An extremely fast Python linter and code formatter, written in Rust.|astral-sh|
 |[zoxide](https://github.com/ajeetdsouza/zoxide)|A smarter cd command. Supports all major shells.|ajeetdsouza|
 |[rnote](https://github.com/flxzt/rnote)|Sketch and take handwritten notes.|flxzt|
 |[hurl](https://github.com/Orange-OpenSource/hurl)|Hurl, run and test HTTP requests with plain text.|Orange-OpenSource|
