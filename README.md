@@ -13,6 +13,7 @@ Contents
 * [C++](#c)
 * [CSS](#css)
 * [Go](#go)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Nix](#nix)
@@ -52,6 +53,12 @@ Contents
 | :--- | :--- | :--- |
 |[grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource)|Grafana Plugin to enable SQLite as a Datasource|fr-ser|
 |[influxdb-comparisons](https://github.com/influxdata/influxdb-comparisons)|Code for comparison write ups of InfluxDB and other solutions|influxdata|
+
+# Java
+
+|Repository|Description|Author|
+| :--- | :--- | :--- |
+|[fern](https://github.com/fern-api/fern)|🌿 Stripe-level SDKs and Docs for your API |fern-api|
 
 # JavaScript
 
@@ -198,7 +205,6 @@ Contents
 | :--- | :--- | :--- |
 |[algorithms](https://github.com/basarat/algorithms)|🌹 Code / tests for algorithm and data structure lessons using TypeScript / JavaScript|basarat|
 |[inshellisense](https://github.com/microsoft/inshellisense)|IDE style command line auto complete|microsoft|
-|[fern](https://github.com/fern-api/fern)|🌿 Stripe-level SDKs and Docs for your API |fern-api|
 |[stepci](https://github.com/stepci/stepci)|Automated API Testing and Quality Assurance|stepci|
 
 # Vim Script
