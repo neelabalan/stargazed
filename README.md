@@ -183,7 +183,7 @@ Contents
 |[watt](https://github.com/dtolnay/watt)|Runtime for executing procedural macros as WebAssembly|dtolnay|
 |[eyra](https://github.com/sunfishcode/eyra)|Rust programs written entirely in Rust|sunfishcode|
 |[vime](https://github.com/algon-320/vime)|Using Vim as an input method for X11 apps|algon-320|
-|[sniffnet](https://github.com/GyulyVGC/sniffnet)|Application to comfortably monitor your Internet traffic 🕵️‍♂️|GyulyVGC|
+|[sniffnet](https://github.com/GyulyVGC/sniffnet)|Comfortably monitor your Internet traffic 🕵️‍♂️|GyulyVGC|
 |[atuin](https://github.com/atuinsh/atuin)|✨ Magical shell history|atuinsh|
 |[confy](https://github.com/rust-cli/confy)|🛋 Zero-boilerplate configuration management in Rust |rust-cli|
 |[tempfile](https://github.com/Stebalien/tempfile)|Temporary file library for rust|Stebalien|
