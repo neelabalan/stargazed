@@ -125,7 +125,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[storm](https://github.com/stanford-oval/storm)|An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.|stanford-oval|
-|[gpt-neox](https://github.com/EleutherAI/gpt-neox)|An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.|EleutherAI|
+|[gpt-neox](https://github.com/EleutherAI/gpt-neox)|An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries|EleutherAI|
 |[pyinstrument](https://github.com/joerick/pyinstrument)|🚴 Call stack profiler for Python. Shows you why your code is slow!|joerick|
 |[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)|pix2tex: Using a ViT to convert images of equations into LaTeX code.|lukas-blecher|
 |[GrailQA](https://github.com/dki-lab/GrailQA)||dki-lab|
@@ -209,7 +209,7 @@ Contents
 |[swap-buffer-queue](https://github.com/wyfo/swap-buffer-queue)|A buffering MPSC queue.|wyfo|
 |[rip](https://github.com/prefix-dev/rip)|Solve and install Python packages quickly with rip (pip in Rust)|prefix-dev|
 |[just](https://github.com/casey/just)|🤖 Just a command runner|casey|
-|[delta](https://github.com/dandavison/delta)|A syntax-highlighting pager for git, diff, and grep output|dandavison|
+|[delta](https://github.com/dandavison/delta)|A syntax-highlighting pager for git, diff, grep, and blame output|dandavison|
 |[glob](https://github.com/rust-lang/glob)|Support for matching file paths against Unix shell style patterns.|rust-lang|
 |[lychee](https://github.com/lycheeverse/lychee)|⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!|lycheeverse|
 |[bollard](https://github.com/fussybeaver/bollard)|Docker daemon API in Rust|fussybeaver|
