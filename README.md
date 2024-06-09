@@ -211,7 +211,7 @@ Contents
 |[datafrog](https://github.com/rust-lang/datafrog)|A lightweight Datalog engine in Rust|rust-lang|
 |[egglog](https://github.com/egraphs-good/egglog)|egraphs + datalog!|egraphs-good|
 |[jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|ynqa|
-|[maestro](https://github.com/llenotre/maestro)|Unix-like kernel written in Rust|llenotre|
+|[maestro](https://github.com/maestro-os/maestro)|Unix-like kernel written in Rust|maestro-os|
 |[promptuity](https://github.com/wadackel/promptuity)|Promptuity is a library that provides interactive prompts.|wadackel|
 |[swap-buffer-queue](https://github.com/wyfo/swap-buffer-queue)|A buffering MPSC queue.|wyfo|
 |[rip](https://github.com/prefix-dev/rip)|Solve and install Python packages quickly with rip (pip in Rust)|prefix-dev|
