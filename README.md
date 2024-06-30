@@ -216,7 +216,6 @@ Contents
 
 |Repository|Description|Author|
 | :--- | :--- | :--- |
-|[sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]|frectonz|
 |[datafrog](https://github.com/rust-lang/datafrog)|A lightweight Datalog engine in Rust|rust-lang|
 |[egglog](https://github.com/egraphs-good/egglog)|egraphs + datalog!|egraphs-good|
 |[jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|ynqa|
@@ -266,6 +265,7 @@ Contents
 |Repository|Description|Author|
 | :--- | :--- | :--- |
 |[nlux](https://github.com/nlkitai/nlux)|The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️|nlkitai|
+|[sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]|frectonz|
 |[SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)|🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing|ixartz|
 |[orb](https://github.com/memgraph/orb)|Graph visualization library|memgraph|
 |[web-check](https://github.com/Lissy93/web-check)|🕵️‍♂️ All-in-one OSINT tool for analysing any website|Lissy93|
